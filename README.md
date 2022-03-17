@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @antoniotmdev
-- 👀 I’m interested in learnig about make web apps
+- 👀 I’m interested in learning how to make quality web applications.
 - 🌱 I’m currently learning Laravel, Vue.js and other technologies like MongoDB.
 - 📫 How to reach me, antoniotmdev@gmail.com
 
